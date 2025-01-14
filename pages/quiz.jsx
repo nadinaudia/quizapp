@@ -88,7 +88,7 @@ if (isLogin !== 'true') {
   return (
     <section className="min-h-screen flex items-center justify-center relative">
         <div className="absolute left-0 h-full w-full bg-red-400">
-        <img src="https://img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?t=st=1736442325~exp=1736445925~hmac=91b2ff2c6d69668231f31a6347a5ac93ddb51f05c6a36d145eddc9d3910a6477&w=1060" alt="Dinosaur" className='h-full w-full object-cover' />
+        <img src="/bg-quiz.png" alt="Dinosaur" className='h-full w-full object-cover' />
         </div>
         <div className="absolute top-0 left-0 h-full w-full bg-black/40"></div>
         <div className="relative p-8 bg-black/50 rounded-lg border-2 border-black shadow-lg w-full max-w-[800px] h-full min-h-[400px] z-10">

@@ -17,7 +17,7 @@ export default function Home() {
     <div className="relative h-screen">
       <div className="absolute inset-0">
         <img 
-          src="https://img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?t=st=1736442325~exp=1736445925~hmac=91b2ff2c6d69668231f31a6347a5ac93ddb51f05c6a36d145eddc9d3910a6477&w=1060" 
+          src="/bg-quiz.png" 
           alt="Background" 
           className="h-full w-full object-cover" 
         />
